@@ -35,6 +35,9 @@ export default function Job({ job }) {
         <Card.Text>
           <Button variant="primary">View Details</Button>
         </Card.Text>
+        <div className="mt-4">
+          <ReactMarkdown source={job.description} />
+        </div>
       </Card.Body>
     </Card>
   );
