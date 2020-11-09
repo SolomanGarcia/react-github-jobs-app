@@ -8,6 +8,8 @@
   
 </p>
 
+<img src="./readmeAssets/githubjobs.png" width="100%">
+
 <h2 align="center"><a href="https://solomangarcia.github.io/react-github-jobs-app/" target="_blank">Live Site</a></h2>
 
 ## Description
