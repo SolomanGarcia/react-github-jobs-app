@@ -20,18 +20,18 @@ Github Jobs is an app built with React that utilizes the <a href="https://jobs.g
 
 ## How to Use
 
-Enter a job description such as web developer in in the description search field, enter a location such as Denver in the location search field and check the Only Full Time checkbox if you wish to see only jobs that are full time.  The app will then load a list of current job listings pulled from the <a href="https://jobs.github.com/api" target="_blank">GitHub Jobs Api</a> using the description, location, and full time status provided.  
+Enter a job description such as web developer in in the description search field, enter a location such as Denver in the location search field and check the Only Full Time checkbox if you wish to see only jobs that are full time.  The app will then load a list of current job listings pulled from the <a href="https://jobs.github.com/api" target="_blank">GitHub Jobs Api</a> using the description, location, and full time status provided.  The user can then view details about how to apply for each job that is retutned from the search. 
 
 ## About the Project
 
 ### Technologies Used
 
-* React
+* <a href="https://reactjs.org/" target="_blank">React</a>
 * JavaScript
 
 ### Packages Used
 
-* Axios
+* <a href="https://www.npmjs.com/package/axios" target="_blank">Axios</a>
 * React-Bootstrap
 * React-Markdown
 
